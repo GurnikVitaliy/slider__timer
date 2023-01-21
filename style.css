@@ -1,0 +1,12 @@
+
+img {
+    width: 300px; 
+    height: auto;
+    border: 2px solid #fff;
+    margin: auto;
+    display: block;
+}
+
+.wrapperDay {display: none;}
+.wrapperDay.active {display: block;}
+
